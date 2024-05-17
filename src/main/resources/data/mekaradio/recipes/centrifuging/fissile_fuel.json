@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:centrifuging",
+  "input": {
+    "amount": 100,
+    "gas": "mekaradio:californium"
+  },
+  "output": {
+    "gas": "mekanism:fissile_fuel",
+    "amount": 500000
+  }
+}

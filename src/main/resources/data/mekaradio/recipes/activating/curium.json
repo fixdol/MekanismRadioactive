@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:activating",
+  "input": {
+    "gas": "mekaradio:americium",
+    "amount": 1
+  },
+  "output": {
+    "gas": "mekaradio:curium",
+    "amount": 1
+  }
+}

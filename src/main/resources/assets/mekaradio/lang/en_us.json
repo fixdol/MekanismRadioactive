@@ -1,0 +1,12 @@
+{
+  "gas.mekaradio.beryllium": "Beryllium",
+  "fluid.mekaradio.beryllium": "Liquid Beryllium",
+  "item.mekaradio.beryllium_bucket": "Liquid Beryllium Bucket",
+  "gas.mekaradio.americium": "Americium",
+  "gas.mekaradio.decayed_americium": "Decayed Americium",
+  "gas.mekaradio.decayed_plutonium": "Decayed Plutonium",
+  "gas.mekaradio.decayed_nuclear_waste": "Decayed Nuclear Waste",
+  "gas.mekaradio.neutron": "Neutron",
+  "gas.mekaradio.curium": "Curium",
+  "gas.mekaradio.californium": "Californium"
+}

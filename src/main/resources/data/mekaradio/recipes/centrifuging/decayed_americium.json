@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:centrifuging",
+  "input": {
+    "amount": 10,
+    "gas": "mekaradio:americium"
+  },
+  "output": {
+    "gas": "mekaradio:decayed_americium",
+    "amount": 10
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:centrifuging",
+  "input": {
+    "amount": 10,
+    "gas": "mekanism:plutonium"
+  },
+  "output": {
+    "gas": "mekaradio:decayed_plutonium",
+    "amount": 10
+  }
+}

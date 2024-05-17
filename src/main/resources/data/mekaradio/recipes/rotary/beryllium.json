@@ -1,0 +1,19 @@
+{
+  "type": "mekanism:rotary",
+  "fluidInput": {
+    "fluid": "mekaradio:beryllium",
+    "amount": 1
+  },
+  "gasOutput": {
+    "gas": "mekaradio:beryllium",
+    "amount": 1
+  },
+  "gasInput": {
+    "gas": "mekaradio:beryllium",
+    "amount": 1
+  },
+  "fluidOutput": {
+    "fluid": "mekaradio:beryllium",
+    "amount": 1
+  }
+}

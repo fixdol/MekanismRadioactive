@@ -1,0 +1,15 @@
+{
+  "type": "mekanism:chemical_infusing",
+  "leftInput": {
+    "amount": 1,
+    "gas": "mekaradio:neutron"
+  },
+  "output": {
+    "amount": 5,
+    "gas": "mekaddelement:strontium"
+  },
+  "rightInput": {
+    "amount": 1,
+    "gas": "mekanism:uranium_hexafluoride"
+  }
+}

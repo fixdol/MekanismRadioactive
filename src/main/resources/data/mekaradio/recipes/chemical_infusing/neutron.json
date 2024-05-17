@@ -1,0 +1,15 @@
+{
+  "type": "mekanism:chemical_infusing",
+  "leftInput": {
+    "amount": 1,
+    "gas": "mekaradio:beryllium"
+  },
+  "output": {
+    "amount": 5,
+    "gas": "mekaradio:neutron"
+  },
+  "rightInput": {
+    "amount": 1,
+    "gas": "mekaradio:decayed_americium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "mekanism:reaction",
+  "itemInput": {
+    "amount": 1,
+    "ingredient": {
+      "tag": "forge:dusts/fluorite"
+    }
+  },
+  "fluidInput": {
+    "amount": 1000,
+    "fluid": "mekaddelement:helium"
+  },
+  "gasInput": {
+    "amount": 1000,
+    "gas": "mekaradio:curium"
+  },
+  "duration": 100,
+  "gasOutput": {
+    "gas": "mekaradio:californium",
+    "amount": 100
+  }
+}

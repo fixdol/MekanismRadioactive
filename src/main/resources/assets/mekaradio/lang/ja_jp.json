@@ -1,0 +1,12 @@
+{
+  "gas.mekaradio.beryllium": "ベリリウム",
+  "fluid.mekaradio.beryllium": "液体ベリリウム",
+  "item.mekaradio.beryllium_bucket": "液体ベリリウム入りバケツ",
+  "gas.mekaradio.americium": "アメリシウム",
+  "gas.mekaradio.decayed_americium": "減衰したアメリシウム",
+  "gas.mekaradio.decayed_plutonium": "減衰したプルトニウム",
+  "gas.mekaradio.decayed_nuclear_waste": "減衰した核廃棄物",
+  "gas.mekaradio.neutron": "中性子",
+  "gas.mekaradio.curium": "キュリウム",
+  "gas.mekaradio.californium": "カリホルニウム"
+}

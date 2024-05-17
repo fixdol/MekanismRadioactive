@@ -1,0 +1,15 @@
+{
+  "type": "mekanism:chemical_infusing",
+  "leftInput": {
+    "amount": 1,
+    "gas": "mekaradio:neutron"
+  },
+  "output": {
+    "amount": 5,
+    "gas": "mekanism:polonium"
+  },
+  "rightInput": {
+    "amount": 1,
+    "gas": "mekaradio:decayed_nuclear_waste"
+  }
+}

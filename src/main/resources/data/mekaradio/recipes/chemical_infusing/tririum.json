@@ -1,0 +1,15 @@
+{
+  "type": "mekanism:chemical_infusing",
+  "leftInput": {
+    "amount": 1,
+    "gas": "mekaradio:neutron"
+  },
+  "output": {
+    "amount": 5,
+    "gas": "mekanismgenerators:tritium"
+  },
+  "rightInput": {
+    "amount": 1,
+    "gas": "mekanism:lithium"
+  }
+}

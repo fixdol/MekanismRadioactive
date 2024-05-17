@@ -1,0 +1,26 @@
+{
+  "type": "mekanism:reaction",
+  "itemInput": {
+    "amount": 1,
+    "ingredient": {
+      "tag": "forge:dusts/fluorite"
+    }
+  },
+  "fluidInput": {
+    "amount": 10,
+    "fluid": "minecraft:water"
+  },
+  "gasInput": {
+    "amount": 100,
+    "gas": "mekanism:nuclear_waste"
+  },
+  "duration": 10,
+  "itemOutput": {
+    "item": "mekanism:salt",
+    "count": 1
+  },
+  "gasOutput": {
+    "gas": "mekaradio:decayed_nuclear_waste",
+    "amount": 100
+  }
+}
