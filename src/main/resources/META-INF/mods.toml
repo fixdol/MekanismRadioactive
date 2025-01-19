@@ -7,7 +7,6 @@ license="MIT"
 modId="mekaradio"
 version="${file.jarVersion}"
 displayName="Mekanism Radioactive"
-credits="Thanks for this example mod goes to Java"
 authors="FixedDolphin927"
 description="An Addon of Mekanism"
 [[dependencies.mekaradio]]
